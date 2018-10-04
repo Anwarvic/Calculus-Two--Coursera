@@ -1,0 +1,3 @@
+﻿A1) The series converges.
+
+A2) The series diverges.
