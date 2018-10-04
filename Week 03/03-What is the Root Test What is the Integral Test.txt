@@ -1,0 +1,7 @@
+﻿A1) The series converges.
+
+A2) The series converges.
+
+A3) [1/4, 5/16]
+
+A4) The series diverges.
