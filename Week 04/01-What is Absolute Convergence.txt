@@ -1,0 +1,7 @@
+﻿A1) the series converges
+
+A2) The series diverges.
+
+A3) The series converges conditionally.
+
+A4) The series converges conditionally.
