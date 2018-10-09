@@ -1,7 +1,0 @@
-1) the series converges
-
-2) The series diverges.
-
-3) The series converges conditionally.
-
-4) The series converges conditionally.
