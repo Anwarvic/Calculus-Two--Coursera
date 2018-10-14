@@ -1,0 +1,13 @@
+﻿A1) [Third Option]
+
+A2) Exactly when xx is in the interval ( -3 , 3]
+
+A3) 1/3
+
+A4) [Sixth Option]
+
+A5) [Fourth Option]
+
+A6) 4 + 20x + 53x^{2} + 108x^{3} + ⋯
+
+A7) 3/4
