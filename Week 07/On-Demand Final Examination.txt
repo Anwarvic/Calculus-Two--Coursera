@@ -1,0 +1,39 @@
+A1) [Fourth Option]
+
+A2) [Eighth Option]
+
+A3) 3, 8, 14, 20, 24, 26, ...
+
+A4) Bounded above, but not bounded below.
+
+A5) 4/35
+
+A6) The series converges.
+
+A7) 1/2
+
+A8) The series diverges.
+
+A9) [Fourth Option]
+
+A10) The series diverges.
+
+A11) The series diverges.
+
+A12) The series converges.
+
+A13) [Second Option]
+
+A14) 1/7
+
+A15) [Sixth Option]
+
+A16) [First Option]
+
+A17) [Third Option]
+
+A18) 16/3
+
+A19) [Fifth Option]
+
+A20) 17/24
